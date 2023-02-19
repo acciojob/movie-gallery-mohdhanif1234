@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.first{
+	width:100%;
+	display:flex;
+}
+
+.second{
+	width:100%;
+	display:flex;
+}
+
+.third{
+	width:100%;
+	display:flex;
+}
+
+.fourth{
+    width:100%;
+	display:flex;
+}
+}
